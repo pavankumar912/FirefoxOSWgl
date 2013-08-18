@@ -1,0 +1,13 @@
+{
+  "name": "GmailApp",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/fires.png"
+  },
+  "developer": {
+    "name": "Aditya",
+    "url": "http://mozilla.org"
+  },
+  "default_locale": "en"
+}
